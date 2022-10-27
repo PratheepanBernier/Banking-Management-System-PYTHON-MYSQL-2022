@@ -1,0 +1,14 @@
+Thanks for viewing my Github Repo !!!
+
+Kindly make sure you have done the following steps before running this program: 
+
+1)Install MySQL workbench.
+2)Install Python(3.8).
+3)Install VS CODE and install python related extensions in VS code.
+4)Download this repo.
+5)In MySQL, open the pre_run_queries.sql script and run them.
+6)Open the folder in VS code.
+7)In bank_management.py file,Search the first occurence of "yourusername" and "your password" and select them and do right click and choose "change all occurances" and type your username and password of your MySQL server.
+8)Run 
+
+Thank you!!!
